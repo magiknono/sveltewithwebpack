@@ -6,3 +6,6 @@ pull request merged in rails that solve it : Svelte[#2134](https://github.com/ra
 
 So i reproduced steps of the PR and svelte works well with rails 6
 repo : [sveltewithwebpack](https://github.com/magiknono/sveltewithwebpack)
+
+![screenshots of my homepage](https://raw.githubusercontent.com/magiknono/sveltewithwebpack/master/app/assets/images/screenshot-svelte.png)
+![screenshot of terminal](https://raw.githubusercontent.com/magiknono/sveltewithwebpack/master/app/assets/images/screenshot-webpacker.png)
